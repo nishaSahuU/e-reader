@@ -1,5 +1,4 @@
-# e-reader
-A reader can read their favorite book in day mode or night mode.
+
 <h1 align="center"> E- Reader </h1> 
 <h3 align="center">A reading website  </h3>
 
